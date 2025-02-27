@@ -1,6 +1,6 @@
 # Virtual Assistant  
 
-A **simple Python-based virtual assistant** that can perform basic tasks such as **opening Notepad, checking the time, searching the web, and more**.  
+A **simple Python-Based Virtual Assistant** that can perform basic tasks such as **opening Notepad, checking the time, searching the web, and more**.  
 
 ---
 
@@ -23,7 +23,7 @@ A **simple Python-based virtual assistant** that can perform basic tasks such as
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/virtual-assistant
+   git clone https://github.com/KhuzaifaZahid/Simple_Commond_line_based_Virtual_Assistant
    ```
 2. Navigate to the project folder:
    ```sh
