@@ -1,6 +1,6 @@
 # 🤖 Virtual Assistant  
 
-A **simple Python-based virtual assistant** that can perform basic tasks such as **opening applications, checking the time, searching the web, and more**.  
+A **simple Python-based virtual assistant** that can perform basic tasks such as **opening Notepad, checking the time, searching the web, and more**.  
 
 ---
 
@@ -14,3 +14,5 @@ A **simple Python-based virtual assistant** that can perform basic tasks such as
 ✔️ Simple & Lightweight  
 
 ---
+## Requirements
+✔️ Python 3.x installed on your system
