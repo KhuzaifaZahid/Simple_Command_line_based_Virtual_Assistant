@@ -23,7 +23,7 @@ A **simple Python-Based Virtual Assistant** that can perform basic tasks such as
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/KhuzaifaZahid/Simple_Commond_line_based_Virtual_Assistant
+   git clone https://github.com/KhuzaifaZahid/Simple_Command_line_based_Virtual_Assistant
    ```
 2. Navigate to the project folder:
    ```sh
