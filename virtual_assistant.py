@@ -8,7 +8,7 @@ def show_commands():
     print("2. Tell the current time - Type: 'tell me the time'")
     print("3. Search on Google - Type: 'search on google'")
     print("4. Open YouTube - Type: 'open youtube'")
-    print("5. Open WhatsApp - Type: 'open whatsapp'")  # ✅ Added WhatsApp option
+    print("5. Open WhatsApp - Type: 'open whatsapp'") 
     print("6. Exit the assistant - Type: 'exit'\n")
 
 def execute_command(command):
@@ -31,9 +31,9 @@ def execute_command(command):
         print("Opening YouTube...")
         webbrowser.open("https://www.youtube.com")
 
-    elif "open whatsapp" in command:  # ✅ Added condition for WhatsApp
+    elif "open whatsapp" in command:  
         print("Opening WhatsApp...")
-        webbrowser.open("https://web.whatsapp.com")  # Opens WhatsApp Web
+        webbrowser.open("https://web.whatsapp.com")  
 
     else:
         print("Sorry, I don't understand that command.")
