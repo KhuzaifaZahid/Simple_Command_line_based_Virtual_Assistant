@@ -25,3 +25,14 @@ git clone https://github.com/your-username/your-repo.git
 
 # Navigate into the project folder
 cd your-repo
+
+🚀 Usage
+Once the script is running, enter any of the following commands:
+
+📝 Command	💡 Description
+open notepad	Opens Notepad (Windows only).
+tell me the time	Displays the current time and date.
+search on google	Prompts the user to enter a search query.
+open youtube	Opens YouTube in a web browser.
+open whatsapp	Opens WhatsApp Web in a web browser.
+exit	Closes the assistant.
